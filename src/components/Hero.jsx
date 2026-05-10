@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { ArrowRight, ChevronDown, Play, Sparkles } from 'lucide-react';
-import { codeExamples, floatingCards } from "../data/CodeExamples";
+import { codeExamples, floatingCards } from "../data/codeExamples";
 import { Prism as SyntaxHighlighter } from "react-syntax-highlighter";
 import { nightOwl } from "react-syntax-highlighter/dist/esm/styles/prism";
 
